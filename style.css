@@ -84,7 +84,7 @@ html{
 
 #home::before {
     content: "";
-    background: url('./bg22.jpg') no-repeat center center/cover;
+    background: url('/foody/images/bg22.jpg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     top: 0px;  /* to bring the background image to the topmost point so that no gap will left */
@@ -149,7 +149,7 @@ in backgroud */
 #client-section::before{
     content: "";
     position: absolute;
-    background: url('./background2.jpg') no-repeat center center;
+    background: url('/foody/images/background2.jpg') no-repeat center center;
      height: 50%;
      width: 100%;
      zoom: 4;
@@ -179,7 +179,7 @@ in backgroud */
     height: 100%;
     z-index: -1;
     opacity: 1.5;
-    background: url('./download.jpg') no-repeat center;
+    background: url('/foody/images/background1.jpg') no-repeat center;
     zoom:9;
 
 }
